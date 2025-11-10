@@ -1,26 +1,24 @@
-# Stanford CS229 机器学习课程学习笔记
+# Stanford CS229 机器学习课程学习笔记（2022 Fall 版本整理）
 
-这是我的 Stanford CS229（机器学习）课程的个人学习笔记仓库。此仓库用于记录学习过程中的重要概念、理解和实践。
+这是我的 Stanford CS229（机器学习）课程的个人学习笔记仓库。本文档和笔记主要基于 2022 年秋季（2022 Fall）学期的课程资料、讲义与作业进行整理与记录；同时参考了其他公开笔记与资源以补充理解。
 
 ## 课程简介
 
-Stanford CS229 是斯坦福大学的核心机器学习课程，由 Andrew Ng 教授主讲。本课程涵盖以下主要内容：
+Stanford CS229 是斯坦福大学的核心机器学习课程。本仓库以 2022 Fall 学期资料为主线整理笔记。本课程通常覆盖以下主要内容：
 - 监督学习算法与应用
 - 无监督学习方法
 - 深度学习基础
 - 学习理论
 - 机器学习项目实践
 
-## 学习资源
+## 学习资源（以 2022 Fall 为主）
 
-### 官方资源
-1. [CS229 课程官网](https://cs229.stanford.edu/)
-2. [课程讲义与作业](https://cs229.stanford.edu/syllabus.html)
+### 官方资源（主要来源）
+1. CS229 官方网站与课程讲义（请以 Stanford 官方页面或课程当期讲义为准）
 
-### 参考资料
-1. [机器学习实战笔记](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247507430&idx=2&sn=5d1deb023b009c32cce3d37e37f2efac&chksm=976c787ba01bf16d15432a341cb0733e8012ebf5dc23d7914944d1c1e2731e7a2e4d9a1fb365&scene=21#wechat_redirect)
-2. [CS229笔记-fengdu78](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes.git)
-3. [CS229笔记-0917Ray](https://github.com/0917Ray/Reading_Notes.git)
+### 参考资料（补充）
+1. 公开笔记与书籍（如 GitHub 上的 CS229 笔记仓库、博客和教程）
+2. 在线实战与讲解文章，用于补充实现细节与工程实践
 
 ## 笔记组织
 
@@ -75,9 +73,10 @@ Stanford CS229 是斯坦福大学的核心机器学习课程，由 Andrew Ng 教
 ## 目录结构
 
 ```
-├── Notes/                  # 笔记主目录
-└── Assignments/            # 课程作业
-└── Reference/              # 参考资料
+├── Notes/                  # 笔记主目录（按讲次与主题组织，基于 2022 Fall）
+├── Code/                   # 示例实现（python / matlab / jupyter 等）
+├── Assignments/            # 课程作业与解答（供学习参考）
+└── Reference/              # 参考资料与外部链接
 ```
 
 ## 免责声明
