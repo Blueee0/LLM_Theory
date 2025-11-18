@@ -1,4 +1,4 @@
-# 斯坦福 CS229 2022Fall，第 1 讲 线性回归
+# 斯坦福 CS229 2022Fall，第 1 讲 回归问题- 线性回归
 
 ## 思维导图
 ![alt text](assets/CS229__Lecture_1_Supervised_learning_setup/image-3.png)
