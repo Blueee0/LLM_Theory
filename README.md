@@ -1,6 +1,6 @@
 # Stanford CS229 机器学习课程学习笔记（已完结）
 
-这是一份比较简陋的 CS229（机器学习）课程学习笔记，目标是迅速学习机器学习基础，为后续 LLM 的学习奠基。
+这是一份比较简单的 CS229（机器学习）课程学习笔记，目标是迅速学习机器学习基础，为后续 LLM 的学习奠基。
 
 ## 项目说明
 
@@ -40,6 +40,9 @@
 - [Lecture 13: 因子分析](Notes/CS229__Lecture_13_Factor_Analysis.md)
 - [Lecture 14: 主成分分析（PCA）](Notes/CS229__Lecture_14_PCA.md)
 - [Lecture 15: 独立成分分析（ICA）](Notes/CS229__Lecture_15_ICA.md)
+
+### 待补充
+- 简明思维导图：https://stanford.edu/~shervine/l/zh/teaching/cs-229/
 
 ## 目录结构
 
